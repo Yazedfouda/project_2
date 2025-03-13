@@ -1,0 +1,16 @@
+.continer {
+    padding: 10px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    text-align: center;
+    height: 300px;
+}
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+    text-align: left;
+}
+.mb-3 {
+    margin-bottom: 1rem !important;
+    text-align: left;
+}
